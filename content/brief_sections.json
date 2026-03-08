@@ -1,0 +1,128 @@
+{
+  "issue_title": "OpenAI Weekly Intelligence Brief",
+  "issue_subtitle": "Week ending March 7, 2026",
+  "window": {
+    "start": "2026-02-28",
+    "end": "2026-03-07"
+  },
+  "executive_summary": [
+    "This week OpenAI's releases point to a clear pattern: the company is widening end-user adoption surfaces while hardening the operating model for higher-capability systems. The combination of GPT-5.4, spreadsheet-native ChatGPT, and Windows availability for Codex suggests OpenAI is meeting enterprise users inside the tools and devices where work already happens.",
+    "The most business-relevant shift is the stack effect rather than any single launch. Longer context windows reduce prompt fragmentation, Excel integrations place AI directly into finance workflows, and system cards now accompany major model rollouts. That combination makes it easier for enterprises to pilot ambitious use cases while still giving legal, procurement, and security teams something concrete to evaluate.",
+    "The operating implication for leadership is that AI is moving from isolated experimentation toward workflow infrastructure. Organizations that treat these releases as process changes, not just feature drops, are more likely to compound productivity gains."
+  ],
+  "top_innovations": [
+    {
+      "title": "1M-token working memory reaches enterprise relevance",
+      "detail": "GPT-5.4's 1,050,000-token context window changes how teams handle diligence packs, policy manuals, RFP archives, and research corpora. The core task shifts from manual chunking toward workflow design and review controls."
+    },
+    {
+      "title": "AI moves into spreadsheets instead of staying in chat",
+      "detail": "ChatGPT for Excel matters because it embeds AI inside an environment finance and operations teams already trust. That lowers adoption friction and brings AI closer to operational decision support."
+    },
+    {
+      "title": "Desktop coding assistance reaches the Windows fleet",
+      "detail": "Codex on Windows expands AI-assisted coding and automation to the default enterprise endpoint, widening the reachable user base well beyond Apple-heavy technical teams."
+    },
+    {
+      "title": "Safety documentation is now part of the launch package",
+      "detail": "The GPT-5.3 Instant and GPT-5.4 system cards show that governance artifacts are becoming release deliverables, which lowers internal friction for evaluation and rollout."
+    }
+  ],
+  "implications": [
+    {
+      "title": "Enterprise productivity",
+      "detail": "OpenAI is lowering the activation energy required to use AI on real work. Better default conversational quality, longer context, and spreadsheet integration each reduce handoffs, re-prompting, and context switching."
+    },
+    {
+      "title": "Operating model",
+      "detail": "The releases favor organizations with clear intake, review, and human-approval patterns. Teams that codify where AI drafts, where humans approve, and how outputs are audited will extract more value than teams running ad hoc experiments."
+    },
+    {
+      "title": "Platform strategy",
+      "detail": "OpenAI is now spanning core knowledge work, technical work, and advanced research support. Companies treating these as isolated pilots will miss the cross-functional leverage now forming across the platform."
+    }
+  ],
+  "use_cases": [
+    {
+      "title": "Board-pack compression for strategy teams",
+      "persona": "Strategy, corporate development, and chief-of-staff functions",
+      "workflow": [
+        "Load multi-quarter board decks, analyst notes, and internal operating reviews into GPT-5.4.",
+        "Ask for a consistent narrative on changes in growth, margin, and execution risk.",
+        "Route the draft into leadership review instead of manually stitching the source material."
+      ],
+      "impact": "Cuts synthesis time on dense document sets and makes long-context review a repeatable operating process.",
+      "related_updates": [
+        "gpt-5-4",
+        "gpt-5-4-thinking-system-card"
+      ]
+    },
+    {
+      "title": "Spreadsheet anomaly review in finance",
+      "persona": "FP&A, finance, and business operations",
+      "workflow": [
+        "Open a live model in Excel with connected financial data.",
+        "Use ChatGPT to explain unusual variance, surface likely drivers, and generate a management-ready narrative.",
+        "Escalate only the contested judgments to human reviewers."
+      ],
+      "impact": "Reduces time spent translating spreadsheet patterns into business language.",
+      "related_updates": [
+        "chatgpt-excel-financial-data",
+        "gpt-5-3-instant-update"
+      ]
+    },
+    {
+      "title": "Windows-native engineering assistance",
+      "persona": "Developers, analytics engineers, and technical program managers on managed laptops",
+      "workflow": [
+        "Use the Codex Windows app during local development or script authoring.",
+        "Generate boilerplate, inspect functions, and iterate on automation tasks without switching devices.",
+        "Capture accepted changes inside the normal code review flow."
+      ],
+      "impact": "Widens AI-assisted development access across the default enterprise device base.",
+      "related_updates": [
+        "codex-windows",
+        "codex-security"
+      ]
+    },
+    {
+      "title": "Secure code review triage",
+      "persona": "Application security and platform engineering",
+      "workflow": [
+        "Run Codex Security against risky repositories or pull requests.",
+        "Use the model to explain code paths, cluster findings, and identify which issues merit human validation.",
+        "Feed verified issues back into standard remediation queues."
+      ],
+      "impact": "Helps security teams scale review coverage without linearly scaling headcount.",
+      "related_updates": [
+        "codex-security",
+        "gpt-5-4"
+      ]
+    },
+    {
+      "title": "AI-assisted technical research",
+      "persona": "R&D, advanced analytics, and technical knowledge teams",
+      "workflow": [
+        "Use model assistance to map prior literature, inspect symbolic derivations, and outline experimental paths.",
+        "Have domain experts validate claims and narrow the final hypothesis set.",
+        "Use the model as a discovery accelerator rather than an autonomous researcher."
+      ],
+      "impact": "Shows how frontier models can support expert cognition in specialized domains.",
+      "related_updates": [
+        "gravitons-research",
+        "gpt-5-4"
+      ]
+    }
+  ],
+  "risks": [
+    "Long-context models still raise accuracy and attribution concerns; more source material does not guarantee faithful synthesis.",
+    "Spreadsheet-native AI can amplify trust risk because outputs appear inside familiar business tools and may be mistaken for verified analysis.",
+    "Desktop coding and security agents increase the need for permissioning, audit logs, and clear approval boundaries before code or fixes are accepted.",
+    "System cards improve governance posture but do not replace enterprise validation for regulated or high-stakes workflows."
+  ],
+  "strategic_outlook": [
+    "Expect the next wave of value to come from workflow integration rather than isolated chat adoption. The winning enterprise pattern is AI inside core tools plus explicit human checkpoints.",
+    "Procurement and governance teams should start treating model documentation, rollout controls, and evaluation artifacts as part of vendor readiness, not optional extras.",
+    "OpenAI's current release pattern suggests a stack that can support broad knowledge-work adoption and deeper technical specialization at the same time. Enterprises should plan for both."
+  ]
+}

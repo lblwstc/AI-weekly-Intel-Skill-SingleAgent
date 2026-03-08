@@ -1,0 +1,9 @@
+node_modules/
+tmp/
+.DS_Store
+
+webapp/node_modules/
+webapp/.next/
+
+playwright-report/
+test-results/

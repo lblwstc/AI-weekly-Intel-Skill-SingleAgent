@@ -1,0 +1,25 @@
+{
+  "name": "ai-weekly-intel",
+  "version": "1.0.0",
+  "description": "Autonomous weekly intelligence brief for recent OpenAI releases.",
+  "scripts": {
+    "build:data": "node automation/build_dataset.mjs",
+    "build:brief": "node automation/generate_brief.mjs",
+    "build:webapp": "npm --prefix webapp run build",
+    "dev:webapp": "npm --prefix webapp run dev",
+    "record:demo": "node automation/record_demo.mjs",
+    "voiceover:demo": "node automation/add_voiceover_subtitles.mjs",
+    "pipeline": "npm run build:data && npm run build:brief && npm run build:webapp && npm run record:demo"
+  },
+  "keywords": [
+    "openai",
+    "newsletter",
+    "nextjs",
+    "playwright"
+  ],
+  "license": "MIT",
+  "type": "commonjs",
+  "devDependencies": {
+    "playwright": "^1.58.2"
+  }
+}

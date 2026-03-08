@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Weekly Intel"
+  short_description: "Build weekly AI dashboards fast"
+  default_prompt: "Use $build-ai-weekly-intel to build a research-backed AI newsletter dashboard and demo video."

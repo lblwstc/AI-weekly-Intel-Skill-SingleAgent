@@ -1,0 +1,119 @@
+{
+  "generated_on": "2026-03-07",
+  "window": {
+    "start": "2026-02-28",
+    "end": "2026-03-07"
+  },
+  "sources_reviewed": [
+    "OpenAI index/blog pages",
+    "OpenAI Help Center release notes",
+    "OpenAI research updates",
+    "Tech media search results for corroboration"
+  ],
+  "items": [
+    {
+      "id": "gpt-5-3-instant-update",
+      "title": "GPT-5.3 Instant Update",
+      "date": "2026-03-03",
+      "source": "OpenAI",
+      "source_type": "Product",
+      "source_url": "https://openai.com/index/gpt-5-3-instant-update/",
+      "summary": "OpenAI updated GPT-5.3 Instant to feel smoother and more useful in everyday conversations, with stronger tone, clearer phrasing, and faster responses for routine work.",
+      "key_technical_capability": "A faster general-purpose chat model tuned for more natural, concise, and useful responses.",
+      "example_use_case": "Use it as the default assistant for drafting email recaps, meeting summaries, and first-pass research notes where speed and tone both matter.",
+      "why_it_matters": "It improves the quality of everyday AI interaction without forcing teams into a slower frontier model for basic work.",
+      "business_impact_for_knowledge_workers": "Workers get better draft quality and lower-friction conversational support across recurring writing, planning, and coordination tasks."
+    },
+    {
+      "id": "gpt-5-3-instant-system-card",
+      "title": "GPT-5.3 Instant System Card",
+      "date": "2026-03-03",
+      "source": "OpenAI",
+      "source_type": "Safety",
+      "source_url": "https://openai.com/index/gpt-5-3-instant-system-card/",
+      "summary": "OpenAI published the system card for GPT-5.3 Instant, outlining evaluation coverage, risk areas, and mitigation decisions behind the model release.",
+      "key_technical_capability": "Documented deployment controls and evaluation evidence for a fast, broad-use chat model.",
+      "example_use_case": "Internal AI platform teams can use the card to brief legal, security, and procurement stakeholders before expanding access.",
+      "why_it_matters": "The governance package is becoming part of the shipped product rather than an afterthought.",
+      "business_impact_for_knowledge_workers": "Faster internal rollout becomes possible because reviewers get concrete evidence about model behavior and controls."
+    },
+    {
+      "id": "codex-windows",
+      "title": "Codex App on Windows",
+      "date": "2026-03-04",
+      "source": "ChatGPT Release Notes",
+      "source_type": "Platform",
+      "source_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "summary": "OpenAI added the Codex desktop app to Windows, extending coding assistance and task automation beyond macOS into the standard enterprise endpoint environment.",
+      "key_technical_capability": "Desktop access to Codex on Windows for local coding support and developer workflows.",
+      "example_use_case": "Developers, analysts, and technical program managers on managed Windows laptops can generate scripts and inspect code without switching devices.",
+      "why_it_matters": "Windows coverage materially expands the reachable enterprise user base for coding and automation assistance.",
+      "business_impact_for_knowledge_workers": "AI-assisted technical work becomes deployable across the default corporate hardware fleet instead of being limited to Apple-heavy teams."
+    },
+    {
+      "id": "gravitons-research",
+      "title": "Extending Single-Minus Amplitudes to Gravitons",
+      "date": "2026-03-04",
+      "source": "OpenAI",
+      "source_type": "Research",
+      "source_url": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons/",
+      "summary": "OpenAI researchers published a result on extending single-minus amplitudes from gauge theories to gravitons, showing model-assisted progress in advanced symbolic physics workflows.",
+      "key_technical_capability": "AI-assisted symbolic reasoning and discovery support in high-complexity scientific research.",
+      "example_use_case": "R&D teams can use frontier models to map literature, inspect derivations, and accelerate early-stage hypothesis generation before expert validation.",
+      "why_it_matters": "It signals that frontier systems are beginning to assist expert-level technical discovery rather than only generic productivity tasks.",
+      "business_impact_for_knowledge_workers": "Specialized knowledge teams may increasingly use AI as a collaborator for research synthesis and technical exploration."
+    },
+    {
+      "id": "gpt-5-4",
+      "title": "Introducing GPT-5.4",
+      "date": "2026-03-05",
+      "source": "OpenAI",
+      "source_type": "Product",
+      "source_url": "https://openai.com/index/introducing-gpt-5-4/",
+      "summary": "OpenAI launched GPT-5.4 and GPT-5.4 Pro with up to 1,050,000 tokens of context and stronger performance on coding, writing, and agentic professional tasks.",
+      "key_technical_capability": "A frontier multimodal model with a 1.05M-token context window, improved coding and writing quality, and stronger tool-enabled task execution.",
+      "example_use_case": "Strategy or legal teams can analyze long diligence packets, policy binders, research archives, and prior decisions in a single working context.",
+      "why_it_matters": "The longer context window and stronger reasoning reduce prompt fragmentation and make large-document workflows more operationally practical.",
+      "business_impact_for_knowledge_workers": "Analysts, legal ops, product teams, and researchers can process more material in fewer passes and get better synthesis from the first draft."
+    },
+    {
+      "id": "chatgpt-excel-financial-data",
+      "title": "ChatGPT for Excel and New Financial Data Integrations",
+      "date": "2026-03-05",
+      "source": "OpenAI",
+      "source_type": "Product",
+      "source_url": "https://openai.com/index/chatgpt-for-excel-and-new-financial-data-integrations/",
+      "summary": "OpenAI brought ChatGPT into Excel alongside new financial data integrations, pushing AI closer to the spreadsheet and data environments where business decisions are made.",
+      "key_technical_capability": "Spreadsheet-native AI analysis connected to enterprise financial data sources and business workflows.",
+      "example_use_case": "Finance teams can explain variance, pressure-test scenarios, and generate management-ready narratives directly from a live Excel model.",
+      "why_it_matters": "This places AI in the workflow system people already trust instead of requiring them to move work into a separate chatbot.",
+      "business_impact_for_knowledge_workers": "Large populations of finance, operations, and planning users can adopt AI with much less behavior change or tool switching."
+    },
+    {
+      "id": "gpt-5-4-thinking-system-card",
+      "title": "GPT-5.4 Thinking System Card",
+      "date": "2026-03-06",
+      "source": "OpenAI",
+      "source_type": "Safety",
+      "source_url": "https://openai.com/index/gpt-5-4-thinking-system-card/",
+      "summary": "OpenAI published the thinking system card for GPT-5.4, describing its evaluation methods, frontier-risk considerations, and deployment safeguards.",
+      "key_technical_capability": "A governance artifact that documents system-level evaluations and mitigations for a frontier model release.",
+      "example_use_case": "Risk and compliance teams can use the document to assess suitability for sensitive knowledge workflows before wider rollout.",
+      "why_it_matters": "Safety documentation is increasingly shipping as part of the release package for high-capability models.",
+      "business_impact_for_knowledge_workers": "Enterprises get a stronger basis for approving high-value AI workflows while still setting boundaries for sensitive use."
+    },
+    {
+      "id": "codex-security",
+      "title": "Codex Security",
+      "date": "2026-03-06",
+      "source": "OpenAI",
+      "source_type": "Research",
+      "source_url": "https://openai.com/index/codex-security/",
+      "summary": "OpenAI introduced Codex Security as a research-preview effort focused on software vulnerability analysis and secure code review with model assistance.",
+      "key_technical_capability": "Security-focused code analysis and reasoning to support vulnerability triage and secure-development workflows.",
+      "example_use_case": "Application security teams can cluster findings, inspect risky code paths, and prioritize issues before human review.",
+      "why_it_matters": "Coding agents are moving closer to governed engineering and security workflows instead of remaining pure productivity utilities.",
+      "business_impact_for_knowledge_workers": "Security and platform teams can expand review coverage without scaling headcount linearly."
+    }
+  ]
+}

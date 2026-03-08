@@ -1,0 +1,58 @@
+[
+  {
+    "id": "intro",
+    "start": 0.8,
+    "end": 8.2,
+    "english": "This demo shows an internal AI intelligence brief built from real OpenAI releases published in the last seven days.",
+    "japanese": "このデモでは、過去7日間の実際のOpenAIリリースをもとに\n作成した社内向けAIインテリジェンスブリーフを紹介します。"
+  },
+  {
+    "id": "home-dashboard",
+    "start": 8.2,
+    "end": 15.0,
+    "english": "The home view turns the week into a strategy dashboard, with core signals and a verified timeline.",
+    "japanese": "ホーム画面では、今週の動きを戦略ダッシュボードとして整理し、\n要点、重要シグナル、検証済みのタイムラインを一目で確認できます。"
+  },
+  {
+    "id": "updates-explorer",
+    "start": 15.0,
+    "end": 22.5,
+    "english": "On the updates page, every item is searchable and filterable so teams can move quickly from scanning to deeper review.",
+    "japanese": "アップデート画面では、すべての項目を検索・フィルタできるため、\n一覧の把握から詳細確認まで素早く進められます。"
+  },
+  {
+    "id": "excel-signal",
+    "start": 22.5,
+    "end": 31.8,
+    "english": "Here, the Excel launch highlights how AI is moving directly into financial workflows instead of staying in a separate chat tool.",
+    "japanese": "ここではExcel連携を通じて、AIが独立したチャットではなく、\n財務ワークフローそのものに入り込んでいることが分かります。"
+  },
+  {
+    "id": "codex-security",
+    "start": 31.8,
+    "end": 38.8,
+    "english": "Research also surfaces Codex Security, showing AI moving into governed engineering and security review.",
+    "japanese": "研究領域ではCodex Securityが示され、\n統制されたエンジニアリングとセキュリティ運用への広がりが見えてきます。"
+  },
+  {
+    "id": "insights",
+    "start": 38.8,
+    "end": 50.5,
+    "english": "The insights section translates releases into executive guidance. This week's central pattern is workflow integration combined with stronger governance artifacts.",
+    "japanese": "インサイト画面では、各リリースを経営向けの示唆に変換します。\n今週の中心は、ワークフロー統合と強化されたガバナンス資料です。"
+  },
+  {
+    "id": "use-cases",
+    "start": 50.5,
+    "end": 66.2,
+    "english": "The use case view converts those signals into practical operating ideas, from board-pack synthesis and spreadsheet variance review to Windows-native engineering support and secure code-review triage.",
+    "japanese": "ユースケース画面では、そのシグナルを実務案に落とし込みます。\n取締役会資料の要約、差異分析、Windows上の開発支援、セキュアなコードレビューの優先付けまでを想定しています。"
+  },
+  {
+    "id": "close",
+    "start": 66.2,
+    "end": 72.2,
+    "english": "The result is a reusable internal product, not a one-off summary.",
+    "japanese": "その結果、一度きりの要約ではなく、\n再利用できる社内プロダクトとして仕上がっています。"
+  }
+]

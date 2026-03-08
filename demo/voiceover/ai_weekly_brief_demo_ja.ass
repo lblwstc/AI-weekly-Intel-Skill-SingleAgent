@@ -1,0 +1,21 @@
+[Script Info]
+Title: AI Weekly Brief Japanese Subtitles
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Hiragino Sans,19,&H00FFFFFF,&H000000FF,&H90000000,&H66000000,0,0,0,0,100,100,0,0,3,1,0,2,36,36,42,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.80,0:00:08.20,Default,,0,0,0,,このデモでは、過去7日間の実際のOpenAIリリースをもとに\N作成した社内向けAIインテリジェンスブリーフを紹介します。
+Dialogue: 0,0:00:08.20,0:00:15.00,Default,,0,0,0,,ホーム画面では、今週の動きを戦略ダッシュボードとして整理し、\N要点、重要シグナル、検証済みのタイムラインを一目で確認できます。
+Dialogue: 0,0:00:15.00,0:00:22.50,Default,,0,0,0,,アップデート画面では、すべての項目を検索・フィルタできるため、\N一覧の把握から詳細確認まで素早く進められます。
+Dialogue: 0,0:00:22.50,0:00:31.80,Default,,0,0,0,,ここではExcel連携を通じて、AIが独立したチャットではなく、\N財務ワークフローそのものに入り込んでいることが分かります。
+Dialogue: 0,0:00:31.80,0:00:38.80,Default,,0,0,0,,研究領域ではCodex Securityが示され、\N統制されたエンジニアリングとセキュリティ運用への広がりが見えてきます。
+Dialogue: 0,0:00:38.80,0:00:50.50,Default,,0,0,0,,インサイト画面では、各リリースを経営向けの示唆に変換します。\N今週の中心は、ワークフロー統合と強化されたガバナンス資料です。
+Dialogue: 0,0:00:50.50,0:01:06.20,Default,,0,0,0,,ユースケース画面では、そのシグナルを実務案に落とし込みます。\N取締役会資料の要約、差異分析、Windows上の開発支援、セキュアなコードレビューの優先付けまでを想定しています。
+Dialogue: 0,0:01:06.20,0:01:12.20,Default,,0,0,0,,その結果、一度きりの要約ではなく、\N再利用できる社内プロダクトとして仕上がっています。
