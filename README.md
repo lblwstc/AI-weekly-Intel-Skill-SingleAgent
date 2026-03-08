@@ -178,3 +178,11 @@ This repo now includes a project-local skill at `.codex/skills/build-ai-weekly-i
 - It is scoped to this repo rather than your global `~/.codex/skills` directory
 - The local trigger instructions live in `AGENTS.md`
 - To use it in a future Codex session, start Codex in this repo and ask for `$build-ai-weekly-intel`
+
+## One-shot prompt
+
+The repo also includes a reusable one-shot build prompt for Codex 5.4:
+
+- `prompts/codex-5.4-one-shot.md`
+
+This is the copy-paste prompt for rebuilding the full project from scratch in a single autonomous run.
